@@ -1,0 +1,5 @@
+ai/cuddle/hateos/entity/Customer.class
+ai/cuddle/hateos/controller/CustomerController.class
+ai/cuddle/hateos/service/CustomerService.class
+ai/cuddle/hateos/service/CustomerServiceImpl.class
+ai/cuddle/hateos/Application.class
